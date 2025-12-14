@@ -1,0 +1,4317 @@
+═══════════════════════════════════════════════════════════════════════════
+                    RAPPORT DES LOG PRINT STRUCTURES                       
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #1
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 271,95
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #2
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : 3
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #3
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : 9
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #4
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : 3
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #5
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : 4
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #6
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #7
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : 5
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #8
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #9
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 366,78
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #10
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : 789
+  Price      : 208,40
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #11
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : 653
+  Price      : 156,98
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #12
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #13
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 219,58
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #14
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #15
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #16
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #17
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : 10
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #18
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #19
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : 757
+  Price      : 383,58
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #20
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : 837
+  Price      : 207,50
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #21
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 337,73
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #22
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 1
+
+Action:
+  Product ID : 2
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #23
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : 1
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #24
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : 647
+  Price      : 218,28
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #25
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : 332
+  Price      : 89,98
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #26
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #27
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : 855
+  Price      : 82,82
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #28
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #29
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : 550
+  Price      : 27,64
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #30
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #31
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : 9
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #32
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #33
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 107,25
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #34
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : 8
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #35
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #36
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #37
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #38
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : 248
+  Price      : 115,60
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #39
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : 5
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #40
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : 740
+  Price      : 414,06
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #41
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #42
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : 470
+  Price      : 99,33
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #43
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 367,49
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #44
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 2
+
+Action:
+  Product ID : 5
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #45
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #46
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #47
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #48
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : 3
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #49
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : 4
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #50
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #51
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 260,49
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #52
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : 721
+  Price      : 51,90
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #53
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #54
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : 10
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #55
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #56
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #57
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : 10
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #58
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 160,43
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #59
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : 5
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #60
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #61
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 298,28
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #62
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #63
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : 305
+  Price      : 469,84
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #64
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #65
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : 4
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #66
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #67
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : 555
+  Price      : 82,56
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #68
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 3
+
+Action:
+  Product ID : 294
+  Price      : 465,07
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #69
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #70
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #71
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : 422
+  Price      : 51,29
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #72
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : 463
+  Price      : 91,92
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #73
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #74
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 125,57
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #75
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : 9
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #76
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : 533
+  Price      : 63,80
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #77
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : 264
+  Price      : 401,80
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #78
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : 988
+  Price      : 385,29
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #79
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : 7
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #80
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #81
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #82
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #83
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #84
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 140,63
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #85
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 242,72
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #86
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : 5
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #87
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #88
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : 4
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #89
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #90
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 120,43
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #91
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 4
+
+Action:
+  Product ID : 1
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #92
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #93
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : 539
+  Price      : 199,51
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #94
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : 817
+  Price      : 482,03
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #95
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : 5
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #96
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #97
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #98
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #99
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #100
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #101
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #102
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #103
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : 363
+  Price      : 10,23
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #104
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : 6
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #105
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #106
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : 230
+  Price      : 137,19
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #107
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : 415
+  Price      : 56,72
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #108
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #109
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #110
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : 10
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #111
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 321,15
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #112
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 112,67
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #113
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #114
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 5
+
+Action:
+  Product ID : 10
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #115
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 9
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #116
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #117
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 6
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #118
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #119
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 4
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #120
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 1
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #121
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 560
+  Price      : 232,45
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #122
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #123
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 1
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #124
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #125
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #126
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 2
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #127
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 83
+  Price      : 256,06
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #128
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #129
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 607
+  Price      : 126,01
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #130
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 4
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #131
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 138,58
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #132
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 454
+  Price      : 123,21
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #133
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 8
+  Price      : 239,55
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #134
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 8
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #135
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : userId
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : 8
+  Price      : 239,55
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #136
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 6
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 300,87
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #137
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 9
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #138
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #139
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 429
+  Price      : 29,08
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #140
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 662
+  Price      : 414,87
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #141
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #142
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 7
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #143
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #144
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 39
+  Price      : 213,10
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #145
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 3
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #146
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #147
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #148
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 6
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #149
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #150
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 316,53
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #151
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #152
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 270
+  Price      : 245,10
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #153
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 117
+  Price      : 7,65
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #154
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #155
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 149
+  Price      : 234,16
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #156
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 542
+  Price      : 429,26
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #157
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 4
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #158
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #159
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 8
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #160
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : userId
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : 8
+  Price      : 239,55
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #161
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 7
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #162
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : 2
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #163
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #164
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 257,29
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #165
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #166
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #167
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : 6
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #168
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : 278
+  Price      : 173,63
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #169
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : 395
+  Price      : 332,35
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #170
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 166,45
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #171
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #172
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : 1
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #173
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #174
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #175
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 270,30
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #176
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #177
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : 5
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #178
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 373,70
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #179
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : deleteProduct
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : 8
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #180
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : 9
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #181
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #182
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : 304
+  Price      : 442,38
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #183
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 8
+
+Action:
+  Product ID : 3
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #184
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : 64
+  Price      : 224,77
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #185
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : 304
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #186
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : 1
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #187
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : 799
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #188
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 143,37
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #189
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #190
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : 3
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #191
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : 310
+  Price      : 263,17
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #192
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #193
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : 4
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #194
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #195
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #196
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #197
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #198
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : 10
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #199
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #200
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : 237
+  Price      : 418,29
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #201
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : 663
+  Price      : 466,22
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #202
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 125,94
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #203
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 283,27
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #204
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : 5
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #205
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #206
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 9
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 387,36
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #207
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : 896
+  Price      : 23,89
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #208
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : 9
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #209
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : 5
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #210
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 152,41
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #211
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #212
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : 5
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #213
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : 8
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #214
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : EXPENSIVE_PRODUCT_SEARCH
+  Category : SEARCH
+  Method   : findExpensiveProducts
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : 322,17
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #215
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : 2
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #216
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #217
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : getProductById
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : 8
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #218
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : ID
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #219
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : 9
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #220
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #221
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : 8
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #222
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : 4
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #223
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : updateProduct
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : 2
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #224
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #225
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : N/A
+  Category : N/A
+  Method   : N/A
+
+User:
+  ID       : N/A
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #226
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : WRITE_OPERATION
+  Category : WRITE
+  Method   : addProduct
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : 15
+  Price      : 442,65
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+
+LPS #227
+───────────────────────────────────────────────────────────────────────────
+Timestamp: 2025-11-30 22:28:13
+
+Event:
+  Type     : READ_OPERATION
+  Category : READ
+  Method   : findAll
+
+User:
+  ID       : 10
+
+Action:
+  Product ID : N/A
+  Price      : N/A
+  Threshold  : N/A
+
+═══════════════════════════════════════════════════════════════════════════
+

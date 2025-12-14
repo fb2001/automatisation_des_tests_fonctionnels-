@@ -1,0 +1,136 @@
+[ {
+  "userId" : "1",
+  "profileType" : "EXPENSIVE_PRODUCT_SEEKER",
+  "statistics" : {
+    "totalOperations" : 22,
+    "readOperations" : 14,
+    "writeOperations" : 8,
+    "expensiveSearches" : 4,
+    "readPercentage" : 63.63636363636363,
+    "writePercentage" : 36.36363636363637,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 6
+  },
+  "productsAccessed" : [ "1", "298", "3", "5", "8", "120" ],
+  "timestamp" : "2025-11-30T20:58:46.253834"
+}, {
+  "userId" : "2",
+  "profileType" : "EXPENSIVE_PRODUCT_SEEKER",
+  "statistics" : {
+    "totalOperations" : 26,
+    "readOperations" : 11,
+    "writeOperations" : 15,
+    "expensiveSearches" : 3,
+    "readPercentage" : 42.30769230769231,
+    "writePercentage" : 57.69230769230769,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 9
+  },
+  "productsAccessed" : [ "584", "2", "3", "4", "5", "6", "7", "8", "9" ],
+  "timestamp" : "2025-11-30T20:58:46.253860"
+}, {
+  "userId" : "3",
+  "profileType" : "EXPENSIVE_PRODUCT_SEEKER",
+  "statistics" : {
+    "totalOperations" : 18,
+    "readOperations" : 9,
+    "writeOperations" : 9,
+    "expensiveSearches" : 6,
+    "readPercentage" : 50.0,
+    "writePercentage" : 50.0,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 10
+  },
+  "productsAccessed" : [ "132", "1", "2", "3", "4", "259", "107", "328", "131", "10" ],
+  "timestamp" : "2025-11-30T20:58:46.253874"
+}, {
+  "userId" : "4",
+  "profileType" : "EXPENSIVE_PRODUCT_SEEKER",
+  "statistics" : {
+    "totalOperations" : 12,
+    "readOperations" : 10,
+    "writeOperations" : 2,
+    "expensiveSearches" : 4,
+    "readPercentage" : 83.33333333333333,
+    "writePercentage" : 16.666666666666668,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 6
+  },
+  "productsAccessed" : [ "2", "4", "5", "6", "8", "9" ],
+  "timestamp" : "2025-11-30T20:58:46.253889"
+}, {
+  "userId" : "5",
+  "profileType" : "EXPENSIVE_PRODUCT_SEEKER",
+  "statistics" : {
+    "totalOperations" : 13,
+    "readOperations" : 8,
+    "writeOperations" : 5,
+    "expensiveSearches" : 3,
+    "readPercentage" : 61.53846153846154,
+    "writePercentage" : 38.46153846153846,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 8
+  },
+  "productsAccessed" : [ "650", "3", "4", "6", "832", "7", "8", "393" ],
+  "timestamp" : "2025-11-30T20:58:46.253903"
+}, {
+  "userId" : "6",
+  "profileType" : "EXPENSIVE_PRODUCT_SEEKER",
+  "statistics" : {
+    "totalOperations" : 10,
+    "readOperations" : 7,
+    "writeOperations" : 3,
+    "expensiveSearches" : 5,
+    "readPercentage" : 70.0,
+    "writePercentage" : 30.0,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 6
+  },
+  "productsAccessed" : [ "1", "2", "157", "764", "5", "152" ],
+  "timestamp" : "2025-11-30T20:58:46.253916"
+}, {
+  "userId" : "7",
+  "profileType" : "EXPENSIVE_PRODUCT_SEEKER",
+  "statistics" : {
+    "totalOperations" : 15,
+    "readOperations" : 8,
+    "writeOperations" : 7,
+    "expensiveSearches" : 3,
+    "readPercentage" : 53.333333333333336,
+    "writePercentage" : 46.666666666666664,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 7
+  },
+  "productsAccessed" : [ "3", "4", "7", "8", "9", "10", "32" ],
+  "timestamp" : "2025-11-30T20:58:46.253924"
+}, {
+  "userId" : "9",
+  "profileType" : "EXPENSIVE_PRODUCT_SEEKER",
+  "statistics" : {
+    "totalOperations" : 12,
+    "readOperations" : 6,
+    "writeOperations" : 6,
+    "expensiveSearches" : 5,
+    "readPercentage" : 50.0,
+    "writePercentage" : 50.0,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 7
+  },
+  "productsAccessed" : [ "2", "3", "6", "886", "877", "184", "10" ],
+  "timestamp" : "2025-11-30T20:58:46.253936"
+}, {
+  "userId" : "10",
+  "profileType" : "EXPENSIVE_PRODUCT_SEEKER",
+  "statistics" : {
+    "totalOperations" : 12,
+    "readOperations" : 8,
+    "writeOperations" : 4,
+    "expensiveSearches" : 4,
+    "readPercentage" : 66.66666666666667,
+    "writePercentage" : 33.333333333333336,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 7
+  },
+  "productsAccessed" : [ "4", "202", "6", "7", "8", "390", "949" ],
+  "timestamp" : "2025-11-30T20:58:46.253950"
+} ]

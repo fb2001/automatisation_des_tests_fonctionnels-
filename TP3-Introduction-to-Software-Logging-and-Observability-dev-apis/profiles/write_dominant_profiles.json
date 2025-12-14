@@ -1,0 +1,16 @@
+[ {
+  "userId" : "2",
+  "profileType" : "WRITE_DOMINANT",
+  "statistics" : {
+    "totalOperations" : 9,
+    "readOperations" : 0,
+    "writeOperations" : 9,
+    "expensiveSearches" : 0,
+    "readPercentage" : 0.0,
+    "writePercentage" : 100.0,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 4
+  },
+  "productsAccessed" : [ "2", "3", "4", "5" ],
+  "timestamp" : "2025-11-30T20:14:21.984609"
+} ]

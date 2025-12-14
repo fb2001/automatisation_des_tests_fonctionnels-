@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+
+        <File name="File" fileName="logs/app.log">
+            <PatternLayout>
+                <pattern>%d %-5level [%logger] - %msg%n</pattern>
+            </PatternLayout>
+        </File>
+
+        <!-- JSON logs -->
+        <File name="JsonFile" fileName="logs/app.json">
+            <JsonLayout complete="false" compact="true"/>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File"/>
+            <AppenderRef ref="JsonFile"/>
+        </Root>
+    </Loggers>
+</Configuration>

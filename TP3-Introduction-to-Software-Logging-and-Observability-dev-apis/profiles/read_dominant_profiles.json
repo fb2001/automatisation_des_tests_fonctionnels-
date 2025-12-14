@@ -1,0 +1,76 @@
+[ {
+  "userId" : "1",
+  "profileType" : "READ_DOMINANT",
+  "statistics" : {
+    "totalOperations" : 22,
+    "readOperations" : 14,
+    "writeOperations" : 8,
+    "expensiveSearches" : 4,
+    "readPercentage" : 63.63636363636363,
+    "writePercentage" : 36.36363636363637,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 6
+  },
+  "productsAccessed" : [ "1", "298", "3", "5", "8", "120" ],
+  "timestamp" : "2025-11-30T20:58:46.253225"
+}, {
+  "userId" : "4",
+  "profileType" : "READ_DOMINANT",
+  "statistics" : {
+    "totalOperations" : 12,
+    "readOperations" : 10,
+    "writeOperations" : 2,
+    "expensiveSearches" : 4,
+    "readPercentage" : 83.33333333333333,
+    "writePercentage" : 16.666666666666668,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 6
+  },
+  "productsAccessed" : [ "2", "4", "5", "6", "8", "9" ],
+  "timestamp" : "2025-11-30T20:58:46.253884"
+}, {
+  "userId" : "5",
+  "profileType" : "READ_DOMINANT",
+  "statistics" : {
+    "totalOperations" : 13,
+    "readOperations" : 8,
+    "writeOperations" : 5,
+    "expensiveSearches" : 3,
+    "readPercentage" : 61.53846153846154,
+    "writePercentage" : 38.46153846153846,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 8
+  },
+  "productsAccessed" : [ "650", "3", "4", "6", "832", "7", "8", "393" ],
+  "timestamp" : "2025-11-30T20:58:46.253897"
+}, {
+  "userId" : "6",
+  "profileType" : "READ_DOMINANT",
+  "statistics" : {
+    "totalOperations" : 10,
+    "readOperations" : 7,
+    "writeOperations" : 3,
+    "expensiveSearches" : 5,
+    "readPercentage" : 70.0,
+    "writePercentage" : 30.0,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 6
+  },
+  "productsAccessed" : [ "1", "2", "157", "764", "5", "152" ],
+  "timestamp" : "2025-11-30T20:58:46.253911"
+}, {
+  "userId" : "10",
+  "profileType" : "READ_DOMINANT",
+  "statistics" : {
+    "totalOperations" : 12,
+    "readOperations" : 8,
+    "writeOperations" : 4,
+    "expensiveSearches" : 4,
+    "readPercentage" : 66.66666666666667,
+    "writePercentage" : 33.333333333333336,
+    "averageExpensivePrice" : 0.0,
+    "uniqueProductsAccessed" : 7
+  },
+  "productsAccessed" : [ "4", "202", "6", "7", "8", "390", "949" ],
+  "timestamp" : "2025-11-30T20:58:46.253944"
+} ]
